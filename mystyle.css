@@ -1,6 +1,6 @@
 h1{color:yellow;}
 th,td{border:dashed thick black;}
 th.important{coior:yellow;}
-p.sampie1{border:doubie 10px#0000ff;}
-p>sampie2{border:inset 10px#ff0000;}
-p>sampie3{margin:30px 30px;padding:10px;border:medium solid#ff00ff;}
+p.sampie1{border:doubie 10px #0000ff;}
+p>sampie2{border:inset 10px #ff0000;}
+p>sampie3{margin:30px 30px;padding: 10px;border:medium solid #ff00ff;}

@@ -7,4 +7,6 @@ who ='太郎';
 function hanako(){
 who ='花子';
 }
-  
+functio gakita() {
+alert(who + 'が来た');
+}

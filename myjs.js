@@ -1,4 +1,4 @@
-alert('Hello,megumi!');
+alert('Hello,Megumi!');
 alert(1+1);
 alert(Math.sqrt(1+1));
 alert(Math.sqrt(2+3));

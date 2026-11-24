@@ -1,6 +1,7 @@
 h1{color:red;}
-th,td{border:dashed thick black;}
-th.important{coior:red;}
-p.sampie1{border:doubie 10px #0000ff;}
-p>sampie2{border:inset 10px #ff0000;}
-p>sampie3{margin:30px 30px;padding: 10px;border:medium solid #ff00ff;}
+th, td {border:dashed thick black;}
+th.important {coior:red;}
+p.sampie1 {border: double 10px #0000ff;}
+p.sampie2 {border: inset 10px #ff0000;}
+p.sampie3 {margin: 30px 30px;padding: 10px;border:
+medium solid #ff00ff;}

@@ -1,3 +1,3 @@
-function sayhello61()　｛
+function sayhello610()　｛
   alert('Hello,　Function!');
 }        

@@ -1,4 +1,4 @@
 var who = 'world';
 function sayhello64() {alert('Hello, ' + who + '!');}
-function taro() {who = '太郎'；}
-function hanako() {who = '花子'；｝
+function taro64() {who = '太郎'；}
+function hanako64() {who = '花子'；｝
